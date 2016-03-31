@@ -1,1 +1,46 @@
 @import "fonts/stylesheet.css";
+#recipiente{
+	width:800px;
+	border: 1px solid #aac0ae;
+	margin: 0 auto;
+}
+h1{
+	font-size:36px;
+	font-family: 'Ravie';
+	color: #e90c0c;
+	padding-left:154px;
+	
+}
+h2{
+	font-size:24px;
+	font-family:'Trebuchet MS';
+	color:#333;
+	padding-left: 260px;
+	
+}
+#acai{
+	color:#d027aa;
+}
+#precos{
+	float:right;
+}
+h3{
+	font-family: 'Verdana';
+	font-size: 18px;
+	font-weight: bold;
+	color:#333;
+}
+#cardapio{
+	font-family: 'Verdana';
+	font-size: 14px;
+	color:#333;
+    margin-left:154px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:50px;
+	max-width:646px;
+	border: 1px solid #aac0ae;
+}
+#lateral{
+	float: left;
+}
